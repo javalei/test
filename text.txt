@@ -3,4 +3,7 @@ add some local texts
 add some remote texts
 add less
 change  more
-test sshlogin 
+test sshlogin
+add feature test
+add 2
+add 3
